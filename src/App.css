@@ -1,0 +1,11 @@
+.Container {
+  display: flex;
+}
+
+.body-box {
+  width: 800px;
+  margin: 50px 200px;
+}
+.sidebar {
+  height: 650px;
+}
